@@ -77,10 +77,16 @@ p {
 
 .testimonial-image {
     width: 90px;
+    margin-top: 10px;
+    margin-left: 8rem;
 }
 
 #press {
     background-color: rgb(134, 127, 24);
     text-align: center;
     padding-bottom: 1%;
+}
+
+.press-logo {
+    margin: 20px 20px;
 }
