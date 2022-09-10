@@ -94,3 +94,9 @@ p {
 .press-logo {
     margin: 20px 20px;
 }
+
+#pricing {
+    text-align: center;
+    padding: 6% 15%;
+}
+
