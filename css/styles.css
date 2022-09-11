@@ -19,7 +19,7 @@ h3 {
 
 h2 {
     font-family: 'Tinos', serif;
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 1.3;
 }
 
@@ -70,7 +70,7 @@ p {
 
 #testimonials {
     text-align: center;
-    background-color: rgb(134, 127, 24);
+    background-color: rgba(3, 3, 3, 0.479);
     color: rgb(247, 245, 245);
 }
 
