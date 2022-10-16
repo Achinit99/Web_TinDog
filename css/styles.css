@@ -121,16 +121,33 @@ p {
   font-size: 1.2rem;
 }
 
+#cta {
+  background-color: rgb(134, 127, 24);
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.cta-heading {
+  font-family: "montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
 /* Footer Section */
 
 #footer {
   padding: 3% 10%;
-  background-color: rgb(134, 127, 24);
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
 }
 
 .footer-text {
-  color: #fff;
-  font-size: 1rem;
+  color: black;
+  font-size: 1.2rem;
   text-align: center;
 }
 
