@@ -124,7 +124,7 @@ p {
 #cta {
   background-color: rgb(134, 127, 24);
   color: #fff;
-  padding: 7% 15%;
+  padding: 4% 10%;
   text-align: center;
 }
 
@@ -143,10 +143,11 @@ p {
 
 .social-icon {
   margin: 20px 10px;
+  color: rgb(134, 127, 24);
 }
 
 .footer-text {
-  color: black;
+  color: rgb(134, 127, 24);
   font-size: 1.2rem;
   text-align: center;
 }
